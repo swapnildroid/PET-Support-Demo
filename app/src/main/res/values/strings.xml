@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PET Support Demo</string>
+    <string name="chat">Chat</string>
+    <string name="call">Call</string>
+    <string name="tip_get_back_soon">Thank you for getting in touch with us. We’ll get back to you as soon as possible.</string>
+    <string name="tip_work_hours_ended">Work hours has ended. Please contact us again on the next work day.</string>
+    <string name="ok">OK</string>
+</resources>

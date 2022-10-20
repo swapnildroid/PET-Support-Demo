@@ -2,6 +2,6 @@
 
 An Android app project featuring pet support demo written in Kotlin.
 
-![Screenshot#1](screenshots/screen1.jpg)
-![Screenshot#2](screenshots/screen2.jpg)
-![Screenshot#3](screenshots/screen3.jpg)
+![Screenshot#1](screenshots/Screenshot_20221021_021628.png)
+![Screenshot#2](screenshots/Screenshot_20221021_021652.png)
+![Screenshot#3](screenshots/Screenshot_20221021_021818.png)
